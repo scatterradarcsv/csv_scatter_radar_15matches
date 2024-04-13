@@ -6,8 +6,8 @@ Gol,Gol Beklentisi (xG),Toplam Şut,İsabetli Şut,Pozisyonu Gole Çevirme %,Ba�
 0.73,0.54,2.72,1.36,26.67,0.54,46.15,0.0,0.82,3.72,1.72,1.27,35.48,0.91,M'Baye Niang,mbaye-niang,Adana Demirspor,
 0.71,0.7,4.84,2.01,14.62,0.82,39.29,0.3,1.19,8.83,2.57,2.5,45.18,1.23,Edin Džeko,edin-dzeko,Fenerbahçe,
 0.63,0.33,3.39,1.41,18.75,2.19,52.54,0.14,0.78,4.37,4.51,0.99,39.2,1.62,Semih Kılıçsoy,semih-kilicsoy,Beşiktaş,
-0.63,0.4,2.63,1.05,24.0,1.84,58.33,0.16,1.1,5.25,4.57,2.36,50.77,1.94,Nuno Da Costa,nuno-da-costa,Kasımpaşa,
 0.63,0.45,3.52,1.17,17.78,0.7,64.29,0.16,0.94,3.98,2.89,6.25,48.35,1.8,Paul Onuachu,paul-onuachu,Trabzonspor,
+0.6,0.38,2.49,1.0,24.0,1.75,56.45,0.15,1.05,5.24,4.44,2.39,50.74,1.95,Nuno Da Costa,nuno-da-costa,Kasımpaşa,
 0.58,0.25,2.83,1.16,20.45,2.57,52.63,0.13,1.41,11.25,6.81,0.32,55.22,2.51,Wilfried Zaha,wilfried-zaha,Galatasaray,
 0.52,0.47,4.19,1.92,12.5,1.4,66.67,0.0,0.17,6.29,3.67,2.45,46.67,1.75,Stéphane Bahoken,stephane-bahoken,Kayserispor,
 0.51,0.38,2.37,0.96,21.74,0.58,45.95,0.24,1.1,5.97,2.74,2.4,42.61,0.96,Mame Thiam,mame-thiam,Pendikspor,
@@ -47,7 +47,7 @@ Gol,Gol Beklentisi (xG),Toplam Şut,İsabetli Şut,Pozisyonu Gole Çevirme %,Ba�
 0.15,0.29,1.76,0.44,8.33,1.91,54.17,0.0,0.59,3.68,4.71,3.97,47.2,2.21,Philippe Keny,philippe-keny,,Başakşehir FK
 0.14,0.28,3.19,1.01,4.55,2.17,63.83,0.07,0.58,7.67,5.94,3.26,55.95,1.88,Jackson Muleka,jackson-muleka,,Beşiktaş
 0.14,0.11,1.72,0.46,8.11,2.27,58.33,0.28,1.53,9.75,5.94,2.41,51.43,1.53,Barış Alper Yılmaz,baris-alper-yilmaz,,Galatasaray
-0.09,0.2,1.95,0.71,4.55,1.42,51.61,0.27,1.42,3.73,2.4,0.89,32.46,0.62,Julien Ngoy,julien-ngoy,,Kasımpaşa
+0.09,0.2,1.92,0.7,4.55,1.4,51.61,0.26,1.4,3.67,2.36,0.87,32.17,0.61,Julien Ngoy,julien-ngoy,,Kasımpaşa
 0.08,0.12,0.71,0.35,11.11,1.02,48.15,0.24,1.65,11.42,5.63,0.59,57.45,2.8,Efecan Karaca,efecan-karaca,,Alanyaspor
 0.08,0.11,1.06,0.45,7.14,0.91,54.55,0.15,0.83,6.19,4.15,1.36,38.02,1.66,Mendy Mamadou,mendy-mamadou,,İstanbulspor
 0.05,0.16,1.72,0.7,3.13,1.77,45.83,0.16,1.13,9.28,4.88,0.75,40.7,1.66,Jackson,jackson,,İstanbulspor
